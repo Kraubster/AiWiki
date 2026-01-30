@@ -1,5 +1,3 @@
-
-
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/c4204c4e-5686-4955-b369-c3f6cfb214cf"> [ChatGPT](https://chatgpt.com)
 
 A IA conversacional mais popular do mundo, conhecida pela conversação natural e "personalidade" emotiva. Excecional para escrita criativa, brainstorming, explicações educacionais e comunicação. Versão grátis usa GPT-4o que já é extremamente capaz, versão paga ($20/mês) dá acesso a GPT-4, o1 (melhor raciocínio) e DALL-E 3 para geração de imagens.
