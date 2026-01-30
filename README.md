@@ -4,8 +4,6 @@
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/c4204c4e-5686-4955-b369-c3f6cfb214cf"> [ChatGPT](https://chatgpt.com)
 
-**LLM:** GPT
-
 A IA conversacional mais popular do mundo, conhecida pela conversação natural e "personalidade" emotiva. Excecional para escrita criativa, brainstorming, explicações educacionais e comunicação. Versão grátis usa GPT-4o que já é extremamente capaz, versão paga ($20/mês) dá acesso a GPT-4, o1 (melhor raciocínio) e DALL-E 3 para geração de imagens.
 
 **Usa quando precisas de:**
@@ -18,8 +16,6 @@ A IA conversacional mais popular do mundo, conhecida pela conversação natural 
 <br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/cc87e3bb-6dcf-4828-ae78-da2d512d8119"> [Claude](https://claude.ai)
-
-**LLM:** Claude Sonnet, Opus
 
 IA da Anthropic reconhecida como a MELHOR para programação e raciocínio técnico. Context window gigante (200K tokens = ~500 páginas) permite analisar projetos de código completos ou documentos extensos. Raciocínio matemático e lógico superior ao ChatGPT, produz código mais limpo e explica conceitos técnicos com maior precisão.
 
@@ -34,8 +30,6 @@ IA da Anthropic reconhecida como a MELHOR para programação e raciocínio técn
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/a9d0e247-5595-4d0e-adf0-c70438e218a5"> [Gemini](https://gemini.google.com)
 
-**LLM:** Gemini Flash, Pro
-
 IA da Google com integração total ao ecossistema Google: Search em tempo real, Gmail, Docs, Sheets, Calendar. Capacidades multimodais avançadas (texto, imagem, vídeo, áudio) e acesso direto a dados atualizados através do Google Search. Ideal se trabalhas muito com ferramentas Google ou precisas de informação em tempo real.
 
 **Usa quando precisas de:**
@@ -48,8 +42,6 @@ IA da Google com integração total ao ecossistema Google: Search em tempo real,
 <br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/ad9636e8-a130-4690-a54a-53ddac44f822"> [DeepSeek](https://www.deepseek.com)
-
-**LLM:** DeepSeek
 
 IA chinesa que revolucionou o mercado oferecendo performance comparável a GPT-4 mas a preço ~40x mais barato. Extremamente competente em programação (quase ao nível de Claude) e matemática. API super acessível perfeita para projetos que requerem uso intensivo de IA sem gastar fortunas. Versão Coder especializada em código.
 
@@ -64,8 +56,6 @@ IA chinesa que revolucionou o mercado oferecendo performance comparável a GPT-4
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/74bc6231-993b-4153-a548-105264f7e254"> [Mistral](https://mistral.ai)
 
-**LLM:** Codestral
-
 IA europeia (França) focada em privacidade GDPR e soberania de dados. Oferece tanto modelos comerciais via API como versões open-source que podes hospedar na tua própria infraestrutura. Ideal para empresas europeias que precisam de compliance GDPR ou projetos que requerem self-hosting por questões de privacidade ou segurança.
 
 **Usa quando precisas de:**
@@ -78,8 +68,6 @@ IA europeia (França) focada em privacidade GDPR e soberania de dados. Oferece t
 <br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/5aadb029-9b74-4869-87ca-5cbe9f0c320b"> [Grok](https://grok.com)
-
-**LLM:** Grok
 
 IA da xAI (empresa de Elon Musk) com acesso em tempo real ao X/Twitter e posicionamento "anti-woke" e humorístico. Treino inclui dados do Twitter permitindo insights sobre tendências sociais e opinião pública. Disponível apenas para subscritores X Premium/Premium+. Tende a dar respostas mais "diretas" e menos filtradas.
 
@@ -94,8 +82,6 @@ IA da xAI (empresa de Elon Musk) com acesso em tempo real ao X/Twitter e posicio
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/1308643c-cbd8-467f-ac2f-416728d4ac71"> [Qwen](https://qwen.ai)
 
-**LLM:** Qwen, Qwen-VL, Qwen-Coder
-
 IA da Alibaba Cloud com forte performance em chinês e inglês. Modelos especializados para visão computacional (Qwen-VL) e programação (Qwen-Coder). Alternativa chinesa competente com versões open-source disponíveis. Excelente para mercado asiático e projetos multilingues chinês-inglês.
 
 **Usa quando precisas de:**
@@ -108,8 +94,6 @@ IA da Alibaba Cloud com forte performance em chinês e inglês. Modelos especial
 <br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/960d55ef-e843-495a-9d63-4d51ae130f21"> [Copilot](https://copilot.microsoft.com)
-
-**LLM:** GPT, GPT Turbo (Microsoft Azure)
 
 IA da Microsoft integrada em todo o ecossistema Windows, Office 365, Edge, Bing. Acesso nativo a Word, Excel, PowerPoint, Outlook, Teams. Combina GPT-4 com Microsoft Graph (dados da tua organização). Perfeita para quem vive no ecossistema Microsoft corporativo.
 
@@ -124,8 +108,6 @@ IA da Microsoft integrada em todo o ecossistema Windows, Office 365, Edge, Bing.
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/07484ea6-c385-4c98-a249-7e1aecf753c3"> [Meta AI](https://www.meta.ai)
 
-**LLM:** Llama
-
 IA da Meta integrada em WhatsApp, Instagram, Facebook e Messenger. Gratuita e acessível diretamente nas apps sociais da Meta. Modelos Llama são open-source permitindo self-hosting. Útil para quem já usa ecossistema Meta e quer IA integrada nas conversas.
 
 **Usa quando precisas de:**
@@ -138,8 +120,6 @@ IA da Meta integrada em WhatsApp, Instagram, Facebook e Messenger. Gratuita e ac
 <br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/e7e13bc0-6b96-409b-bb06-7f63aa8a51b6"> [Kimi](https://www.kimi.com)
-
-**LLM:** Moonshot
 
 IA chinesa da Moonshot AI com context window recorde de 200K+ tokens (~500 páginas) rivalizando Claude. Extremamente popular na China, especializada em processar documentos longos e manter conversações complexas com contexto extenso. Interface em chinês principalmente.
 
@@ -154,8 +134,6 @@ IA chinesa da Moonshot AI com context window recorde de 200K+ tokens (~500 pági
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/a8d47516-8773-4f5a-9f3d-b1bc290d3a49"> [Perplexity](https://www.perplexity.ai)
 
-**LLM:** Sonar
-
 Motor de busca IA que combina search com conversação. Apresenta respostas com citações e fontes verificáveis. Interface limpa focada em pesquisa com links diretos. Perplexity Pro dá acesso a GPT-4 e Claude. Melhor que Google para pesquisas que precisam de resposta direta e contextualizada.
 
 **Usa quando precisas de:**
@@ -168,8 +146,6 @@ Motor de busca IA que combina search com conversação. Apresenta respostas com 
 <br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/41cb2f95-4d9c-487b-afc1-015ad1c06a02"> [Hunyuan](https://hunyuan.tencent.com)
-
-**LLM:** Hunyuan, Hunyuan-Large
 
 IA da Tencent (WeChat, QQ) integrada ao super-app WeChat usado por 1+ bilhão de pessoas. Focada em aplicações empresariais e integração com serviços Tencent. Forte em chinês e casos de uso de messaging/social commerce no ecossistema WeChat.
 
@@ -184,8 +160,6 @@ IA da Tencent (WeChat, QQ) integrada ao super-app WeChat usado por 1+ bilhão de
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/140008a6-0b53-4d93-a81a-4b0af7f9a1e4"> [ERNIE](https://ernie.baidu.com)
 
-**LLM:** ERNIE
-
 IA da Baidu (Google da China) com integração ao motor de busca Baidu e ecossistema chinês. Otimizada para mercado chinês com conhecimento profundo de cultura, linguagem e contexto local. Compliance total com regulações chinesas. Dominante no mercado empresarial chinês.
 
 **Usa quando precisas de:**
@@ -198,8 +172,6 @@ IA da Baidu (Google da China) com integração ao motor de busca Baidu e ecossis
 <br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/b7d52101-d5c6-42fe-92a5-c64ae2542a55"> [Writer](https://writer.com)
-
-**LLM:** Palmyra, Palmyra-X
 
 Plataforma IA generativa empresarial focada em criação de conteúdo e automação de escrita corporativa. Knowledge Graphs para integrar dados da empresa. Graph-based RAG para precisão. Forte governança e brand voice consistency. Usada por grandes empresas para scaling de conteúdo.
 
