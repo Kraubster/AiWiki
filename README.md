@@ -2,7 +2,7 @@
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/d993083e-2a90-4308-a76c-3538fd29a3a1"> [ChatGPT](https://chatgpt.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/c4204c4e-5686-4955-b369-c3f6cfb214cf"> [ChatGPT](https://chatgpt.com)
 
 **LLM:** GPT-4o (grátis), GPT-4, o1
 
@@ -17,7 +17,7 @@ A IA conversacional mais popular do mundo, conhecida pela conversação natural 
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/b0e06a9a-1d8c-4f77-aa22-499b5209ed64"> [Claude](https://claude.ai)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/cc87e3bb-6dcf-4828-ae78-da2d512d8119"> [Claude](https://claude.ai)
 
 **LLM:** Claude 3.5 Sonnet, Claude 3 Opus
 
@@ -32,7 +32,7 @@ IA da Anthropic reconhecida como a MELHOR para programação e raciocínio técn
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/df133f24-31ca-4eaf-b901-a93bba99011f"> [Gemini](https://gemini.google.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/a9d0e247-5595-4d0e-adf0-c70438e218a5"> [Gemini](https://gemini.google.com)
 
 **LLM:** Gemini 2.0 Flash, Gemini 1.5 Pro
 
@@ -47,7 +47,7 @@ IA da Google com integração total ao ecossistema Google: Search em tempo real,
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/9c5d8c70-db24-4258-9eb5-7a7377af7556"> [DeepSeek](https://www.deepseek.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/ad9636e8-a130-4690-a54a-53ddac44f822"> [DeepSeek](https://www.deepseek.com)
 
 **LLM:** DeepSeek-V3, DeepSeek-Coder
 
@@ -62,7 +62,7 @@ IA chinesa que revolucionou o mercado oferecendo performance comparável a GPT-4
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Mistral](https://mistral.ai)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/74bc6231-993b-4153-a548-105264f7e254"> [Mistral](https://mistral.ai)
 
 **LLM:** Mistral Large 2, Codestral
 
@@ -77,7 +77,7 @@ IA europeia (França) focada em privacidade GDPR e soberania de dados. Oferece t
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Grok](https://grok.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/5aadb029-9b74-4869-87ca-5cbe9f0c320b"> [Grok](https://grok.com)
 
 **LLM:** Grok-2, Grok-2 mini
 
@@ -92,7 +92,7 @@ IA da xAI (empresa de Elon Musk) com acesso em tempo real ao X/Twitter e posicio
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Qwen](https://qwen.ai)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/1308643c-cbd8-467f-ac2f-416728d4ac71"> [Qwen](https://qwen.ai)
 
 **LLM:** Qwen2.5, Qwen-VL, Qwen-Coder
 
@@ -107,7 +107,7 @@ IA da Alibaba Cloud com forte performance em chinês e inglês. Modelos especial
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Copilot](https://copilot.microsoft.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/960d55ef-e843-495a-9d63-4d51ae130f21"> [Copilot](https://copilot.microsoft.com)
 
 **LLM:** GPT-4, GPT-4 Turbo (Microsoft Azure)
 
@@ -122,7 +122,7 @@ IA da Microsoft integrada em todo o ecossistema Windows, Office 365, Edge, Bing.
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Meta AI](https://www.meta.ai)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/07484ea6-c385-4c98-a249-7e1aecf753c3"> [Meta AI](https://www.meta.ai)
 
 **LLM:** Llama 3, Llama 3.1, Llama 3.2
 
@@ -137,7 +137,7 @@ IA da Meta integrada em WhatsApp, Instagram, Facebook e Messenger. Gratuita e ac
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Kimi](https://www.kimi.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/e7e13bc0-6b96-409b-bb06-7f63aa8a51b6"> [Kimi](https://www.kimi.com)
 
 **LLM:** Moonshot (Kimi)
 
@@ -152,7 +152,7 @@ IA chinesa da Moonshot AI com context window recorde de 200K+ tokens (~500 pági
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Perplexity](https://www.perplexity.ai)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/a8d47516-8773-4f5a-9f3d-b1bc290d3a49"> [Perplexity](https://www.perplexity.ai)
 
 **LLM:** GPT-4, Claude 3.5, modelos próprios
 
@@ -167,7 +167,7 @@ Motor de busca IA que combina search com conversação. Apresenta respostas com 
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Hunyuan](https://hunyuan.tencent.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/41cb2f95-4d9c-487b-afc1-015ad1c06a02"> [Hunyuan](https://hunyuan.tencent.com)
 
 **LLM:** Hunyuan, Hunyuan-Large
 
@@ -182,7 +182,7 @@ IA da Tencent (WeChat, QQ) integrada ao super-app WeChat usado por 1+ bilhão de
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [ERNIE](https://ernie.baidu.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/140008a6-0b53-4d93-a81a-4b0af7f9a1e4"> [ERNIE](https://ernie.baidu.com)
 
 **LLM:** ERNIE 4.0, ERNIE 3.5
 
@@ -197,7 +197,7 @@ IA da Baidu (Google da China) com integração ao motor de busca Baidu e ecossis
 
 <br>
 
-### <img align="right" width="80" height="80" src="https://cdn.simpleicons.org/mistralai/FA520F"> [Writer](https://writer.com)
+### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/b7d52101-d5c6-42fe-92a5-c64ae2542a55"> [Writer](https://writer.com)
 
 **LLM:** Palmyra, Palmyra-X
 
