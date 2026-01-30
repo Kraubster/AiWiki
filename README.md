@@ -1,6 +1,4 @@
-## Inteligência Artificial
 
-<br>
 
 ### <img align="right" width="80" height="80" src="https://github.com/user-attachments/assets/c4204c4e-5686-4955-b369-c3f6cfb214cf"> [ChatGPT](https://chatgpt.com)
 
