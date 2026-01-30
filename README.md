@@ -177,3 +177,220 @@ Plataforma IA generativa empresarial focada em criação de conteúdo e automaç
 - Integration com dados corporativos (Knowledge Graphs)
 - Governança e compliance empresarial
 - Automação de workflows de conteúdo
+
+---
+# 2. 
+
+### [FLUX](https://blackforestlabs.ai)
+
+IA de geração de imagens open-source da Black Forest Labs (fundada pelos criadores do Stable Diffusion) que usa arquitetura híbrida de flow matching com 12 mil milhões de parâmetros, oferecendo fotorrealismo state-of-the-art e controlo preciso sobre prompts. Disponível em três variantes: [pro] para performance máxima, [dev] para uso não-comercial, e [schnell] para geração rápida local. Destaca-se pelo tratamento superior de mãos humanas, texto dentro de imagens e composições complexas.
+
+**Usa quando precisas de:**
+
+- Geração de imagens com qualidade fotorrealista superior
+
+- Controlo preciso sobre prompts complexos e detalhados
+
+- Modelo open-source que podes hospedar localmente
+
+- Criar imagens com texto integrado de forma natural
+
+- Alternativa económica ao Midjourney com API acessível
+
+<br>
+
+### [Midjourney](https://midjourney.com)
+
+Gerador de imagens AI premium exclusivo no Discord, reconhecido pela qualidade artística excecional e estilo visual distintivo. Modelo v6.1 atual resolve finalmente o problema de "dedos estranhos" e oferece controlo granular através de parâmetros avançados como --stylize, --chaos, e --weird. Sem trial gratuito, mas domina o mercado de criação de imagens AI para uso profissional e comercial.
+
+**Usa quando precisas de:**
+
+- Qualidade artística premium para projetos comerciais
+
+- Estilos visuais únicos e composições criativas
+
+- Geração de conceitos visuais para design profissional
+
+- Iteração rápida com controlo fino sobre o output
+
+- Acesso a modelos legacy para estilos específicos
+
+<br>
+
+### [Leonardo AI](https://leonardo.ai)
+
+Plataforma completa de criação visual AI baseada em Stable Diffusion com mais de 30 ferramentas integradas. Oferece geração ilimitada em modo "relaxado", real-time generation, AI Canvas para edição, texturas 3D, e remoção de backgrounds. Plano gratuito generoso com 150 tokens diários, ideal para experimentação sem compromisso financeiro.
+
+**Usa quando precisas de:**
+
+- Suite completa de ferramentas de criação visual num só lugar
+
+- Geração ilimitada de imagens (modo relaxado)
+
+- Edição interativa com AI Canvas em tempo real
+
+- Criar texturas 3D para modelação
+
+- Experimentar gratuitamente antes de subscrever
+
+<br>
+
+### [Suno](https://suno.ai)
+
+Gerador de música AI que cria canções completas (vocais, letras, instrumentais) a partir de prompts de texto simples. Suporta extensões até 3 minutos, exportação de stems (até 12 pistas separadas), upload de áudio próprio, e geração multi-idioma. Modelo v5 atual oferece qualidade studio-grade a 44.1kHz com controlo emocional avançado através de tags de áudio.
+
+**Usa quando precisas de:**
+
+- Criar música original completa sem skills musicais
+
+- Gerar background music para vídeos e podcasts
+
+- Experimentar com diferentes géneros e estilos musicais
+
+- Extrair stems individuais para edição em DAW
+
+- Prototipar ideias musicais rapidamente
+
+<br>
+
+### [ElevenLabs](https://elevenlabs.io)
+
+Plataforma líder em AI voice generation com voice cloning profissional a partir de 1 minuto de áudio, text-to-speech em 70+ idiomas, e dubbing automático que preserva emoção e timing. Latência ultra-baixa (75ms com Flash v2.5) ideal para conversational AI. API enterprise-grade com compliance GDPR e SOC II.
+
+**Usa quando precisas de:**
+
+- Clonar vozes com qualidade profissional
+
+- Dubbing automático de vídeos para múltiplos idiomas
+
+- Text-to-speech com controlo emocional avançado
+
+- Criar voiceovers para vídeos, ads, e audiobooks
+
+- Integrar voz AI em apps com latência mínima
+
+<br>
+
+### [Gamma](https://gamma.app)
+
+Gerador AI de apresentações e web pages que cria decks completos a partir de prompts simples, sem necessidade de design skills. Oferece one-click restyling, templates flexíveis, AI agents que ingerem documentos, e analytics detalhados. Interface Notion-style com editor baseado em "cards" que facilita edição rápida e iterativa.
+
+**Usa quando precisas de:**
+
+- Criar apresentações profissionais em minutos
+
+- Gerar landing pages e websites rapidamente
+
+- Transformar documentos em apresentações visuais
+
+- Prototipar pitch decks e relatórios
+
+- Colaborar em equipa em apresentações
+
+<br>
+
+### [Cursor](https://cursor.com)
+
+Editor de código baseado em VS Code com AI integrada nativamente (não extensão), oferecendo Agent Mode que executa workflows completos, multi-file edits inteligentes, e Bugbot para deteção automática de bugs. Suporta GPT-4, Claude 3.5 Sonnet, e outros modelos frontier. Modo "Auto" seleciona automaticamente o melhor modelo para cada tarefa.
+
+**Usa quando precisas de:**
+
+- Programação assistida por AI com contexto total do codebase
+
+- Edições complexas em múltiplos ficheiros simultaneamente
+
+- Code review automático e deteção de bugs
+
+- Aprender padrões de código através de AI
+
+- Alternativa mais poderosa ao GitHub Copilot
+
+<br>
+
+### [Runway](https://runwayml.com)
+
+Plataforma profissional de AI video generation com modelos Gen-3, Gen-4, e Act-Two para performance capture. Oferece 30+ ferramentas criativas, keyframing, camera guidance, upscale 4K, e dubbing multi-idioma. Usado por Netflix, Lionsgate, e grandes estúdios. API enterprise com escalabilidade massiva.
+
+**Usa quando precisas de:**
+
+- Geração de vídeo com qualidade cinematográfica
+
+- Text-to-video e image-to-video profissional
+
+- Controlo avançado com keyframes e camera paths
+
+- Upscale de vídeo para 4K
+
+- Produção de VFX e efeitos visuais com AI
+
+<br>
+
+### [Kling AI](https://klingai.com)
+
+Gerador de vídeo AI chinês da Kuaishou com simulação de física avançada, suporte para vídeos até 2 minutos, e sistema de 3 tiers de qualidade (Standard 720p, Professional 1080p, Master 1080p Cinema). Oferece keyframing start/end, motion brush, e controlo detalhado de cena. Pricing mais acessível que rivais ocidentais.
+
+**Usa quando precisas de:**
+
+- Gerar vídeos longos (até 2 minutos) a custo acessível
+
+- Simulação realista de física e movimento
+
+- Text-to-video e image-to-video de alta qualidade
+
+- Controlo preciso com keyframes e motion brush
+
+- Alternativa económica ao Runway
+
+<br>
+
+### [Lovable](https://lovable.dev)
+
+Plataforma no-code que gera aplicações web full-stack completas a partir de prompts em linguagem natural. Integração nativa com Supabase para backend, visual editor para edits precisos, debugging agent automático, e deploy one-click. Alcançou £13.50M ARR em apenas 3 meses após lançamento.
+
+**Usa quando precisas de:**
+
+- Criar web apps completas sem escrever código
+
+- Prototipar MVPs rapidamente para validação
+
+- Gerar landing pages e ferramentas internas
+
+- Desenvolver com Supabase backend integrado
+
+- Aprender front-end através de AI-generated code
+
+<br>
+
+### [Comet](https://perplexity.ai/comet) (Perplexity Browser)
+
+Browser baseado em Chromium com AI conversacional integrada do Perplexity, permitindo interação natural com websites, summarização automática, gestão inteligente de tabs, shopping assistant, e Background Assistant para tarefas assíncronas. Agora gratuito para todos (anteriormente exclusivo para Max subscribers a $200/mês).
+
+**Usa quando precisas de:**
+
+- Pesquisar e interagir com a web através de conversação
+
+- Summarizar páginas longas e PDFs instantaneamente
+
+- Comparar informação de múltiplas fontes automaticamente
+
+- Eliminar tab overload com AI que organiza por ti
+
+- Research assistido com citações verificáveis
+
+<br>
+
+### [Manus AI](https://manus.im)
+
+Agente AI autónomo que executa workflows end-to-end multi-step sem intervenção humana. Integra com spreadsheets, email, Slack, browsers, e APIs externas. Suporta inputs multimodais e pode executar até 10 tarefas concorrentes (plano Pro). Usa Claude 3.7 Sonnet para reasoning complexo e geração de media.
+
+**Usa quando precisas de:**
+
+- Automatizar workflows completos sem código
+
+- Delegar tarefas complexas que requerem múltiplos passos
+
+- Processar dados entre diferentes aplicações
+
+- Gerar relatórios e análises automaticamente
+
+- Executar tarefas assíncronas em background
